@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #140452;
+    }
+    .galvene {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #BB8BBA;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    }
+    .saturs {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #8180DA;
+    color: white;
+    }
+    .kajene {
+    position: relative;
+    background-color: #BB8BBA;
+    color: rgb(83, 4, 4);
+    text-align: center;
+    padding: 10px;
+margin-top: 20px;
+}
